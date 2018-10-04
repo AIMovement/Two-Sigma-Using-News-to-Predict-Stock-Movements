@@ -5,7 +5,8 @@ https://www.kaggle.com/c/two-sigma-financial-news/data
 ## Getting started 
 
 ### Virtual environment 
-Activate environment: ./venv/Scripts >activate 
+Activate environment: ./venv/Scripts 
+> activate 
 
 ### Download data locally 
 > kaggle competitions download -c two-sigma-financial-news
