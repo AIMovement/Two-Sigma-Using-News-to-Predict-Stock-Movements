@@ -1,5 +1,5 @@
 # Two Sigma: Using News to Predict Stock Movements
-Repository for the Kaggle competition: Two Sigma: Using News to Predict Stock Movements (https://www.kaggle.com/c/two-sigma-financial-news/data)
+Repository for the Kaggle competition: Two Sigma: Using News to Predict Stock Movements (https://www.kaggle.com/c/two-sigma-financial-news/)
 
 ## Getting started 
 
